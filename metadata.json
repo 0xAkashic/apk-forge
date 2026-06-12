@@ -1,0 +1,6 @@
+{
+  "name": "AIXReplyPro",
+  "description": "An Android overlay utility that uses accessibility to read tweets on X (Twitter) and automatically copies AI-generated replies to the clipboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
